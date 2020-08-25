@@ -1,4 +1,4 @@
-# Text-based image to text convertor.
+## Text-based image to text convertor.
 
 ### How to use this
 
@@ -7,4 +7,4 @@
 - Reopen your terminal / VSCode if necessary.
 
 - In the index.js file, put the link/path of the image you want to read as the tesseract.recognize function's first argument.
-- RUN "npm start" & you'll see the result text in the console.
+- RUN "npm install" & "npm start" and you'll see the result text in the console.

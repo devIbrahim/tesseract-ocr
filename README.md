@@ -1,4 +1,4 @@
-## Text-based image to text convertor.
+## Extract text from a text-based image.
 
 ### How to use this
 
